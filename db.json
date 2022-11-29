@@ -1,0 +1,58 @@
+{
+	"Pilotos": [
+		{
+			"id": 1,
+			"nombre": "Fabio Quartararo",
+			"pais": "Francia",
+			"equipo": "Yamaha",
+			"numero": 20,
+			"apodo": "El Diablo",
+			"img": "https://i0.wp.com/automundo.com.ar/wp-content/uploads/2022/04/Fabio-Quartararo.jpg"
+		},
+		{
+			"id": 2,
+			"nombre": "Franchesco Bagnaia",
+			"pais": "Italia",
+			"equipo": "Ducati",
+			"numero": 63,
+			"apodo": "Pecco",
+			"img": "https://i0.wp.com/automundo.com.ar/wp-content/uploads/2022/09/Francesco-Bagnaia-2.jpg"
+		},
+		{
+			"id": 3,
+			"nombre": "Aleix Espargaro",
+			"pais": "España",
+			"equipo": "Aprilia",
+			"numero": 41,
+			"apodo": "El Aleix",
+			"img": "https://s3.eu-west-1.amazonaws.com/cdn.motorbikemag.es/wp-content/uploads/2022/05/aleix-espargaro-sabado-le-mans-motogp-3-1.jpg"
+		},
+		{
+			"id": 4,
+			"nombre": "Alex Rins",
+			"pais": "España",
+			"equipo": "Suzuki",
+			"numero": 42,
+			"apodo": "El Rins",
+			"img": "hhttps://gponesports.com/wp-content/uploads/2022/10/MotoGP-Alex-Rins-pide-la-GSX-RR-Suzuki-dicta-las-condiciones.jpg"
+		},
+		{
+			"id": 5,
+			"nombre": "Marc Marquez",
+			"pais": "España",
+			"equipo": "Honda",
+			"numero": 93,
+			"apodo": "El Marquez",
+			"img": "https://motorbikewriter.com/wp-content/uploads/2022/08/The-Guuardina-e1661461416187.jpg"
+		},
+		{
+			"id": 6,
+			"nombre": "Jack Miller",
+			"pais": "Australia",
+			"equipo": "Ducati",
+			"numero": 43,
+			"apodo": "El Miller",
+			"img": "https://cdn-1.motorsport.com/images/amp/YMdoEwg2/s6/motogp-ducati-team-launch-2021-4.jpg"
+		}
+	]
+}
