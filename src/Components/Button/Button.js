@@ -1,8 +1,8 @@
 import React from 'react';
 import { ButtonPage } from './ButtonStyle';
 
-const Button = ({ apodo }) => {
-	return <ButtonPage>{apodo}</ButtonPage>;
+const Button = ({ equipo }) => {
+	return <ButtonPage>{equipo}</ButtonPage>;
 };
 
 export default Button;

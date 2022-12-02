@@ -14,7 +14,7 @@ const Home = () => {
 			<HomeContentStyled>
 				<HomeTitleStyled>La magia de los motores</HomeTitleStyled>
 				<HomeDescriptionStyled>
-					Nos sumergimos con los heroes de la velocidad
+					Repaso de lo mejor del MOTO GP Mundial!
 				</HomeDescriptionStyled>
 				<HomeButtonStyled>Ver Más</HomeButtonStyled>
 			</HomeContentStyled>
@@ -23,6 +23,7 @@ const Home = () => {
 				<img
 					src="https://www.wooco.de/wp-content/uploads/2022/03/motogp_22_trophaeen_leitfaden.jpg"
 					alt="moto-gp"
+					style={{ width: '800px' }}
 				/>
 			</HomeImageContainer>
 		</HomeContainerStyled>

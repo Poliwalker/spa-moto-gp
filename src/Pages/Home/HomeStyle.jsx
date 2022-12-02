@@ -2,19 +2,23 @@ import styled from 'styled-components';
 
 export const HomeContainerStyled = styled.div`
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	height: calc(100vh - 130px);
 	margin-left: 10%;
 	overflow: hidden;
+	width: 90%;
+	margin: 0 auto;
 `;
 
 export const HomeContentStyled = styled.div`
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 	gap: 10px;
-	width: 45%;
+	text-align: center;
 `;
 
 export const HomeTitleStyled = styled.h1`
@@ -32,6 +36,7 @@ export const HomeDescriptionStyled = styled.p`
 	font-size: 24px;
 	line-height: 32px;
 	color: #ffffff;
+	max-width: 300px;
 `;
 
 export const HomeButtonStyled = styled.button`
@@ -45,11 +50,11 @@ export const HomeButtonStyled = styled.button`
 `;
 
 export const HomeImageContainer = styled.div`
-	width: 100%;
 	display: flex;
 	justify-content: center;
+	width: 100%;
 	& img {
-		max-width: 100%;
+		width: 800px;
 		height: 100%;
 	}
 `;

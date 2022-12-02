@@ -1,5 +1,5 @@
 {
-	"Pilotos": [
+	"pilotos": [
 		{
 			"id": 1,
 			"nombre": "Fabio Quartararo",
@@ -7,7 +7,8 @@
 			"equipo": "Yamaha",
 			"numero": 20,
 			"apodo": "El Diablo",
-			"img": "https://i0.wp.com/automundo.com.ar/wp-content/uploads/2022/04/Fabio-Quartararo.jpg"
+			"img": "https://i0.wp.com/automundo.com.ar/wp-content/uploads/2022/04/Fabio-Quartararo.jpg",
+			"description": "Fabio Quartararo (Niza, 20 de abril de 1999) es un piloto francés de motociclismo. Compite en el equipo Monster Energy Yamaha en el Campeonato del Mundo de Motociclismo de MotoGP. Antes de su entrada en la categoría reina, ganó seis títulos del Campeonato de España de Velocidad incluyendo dos títulos de Moto3 Junior en 2013 y 2014. El 24 de octubre de 2021 se proclamó campeón del mundo de MotoGP, siendo el primer piloto francés en lograrlo. Además, resultó subcampeón del mundo en 2022."
 		},
 		{
 			"id": 2,
@@ -16,7 +17,8 @@
 			"equipo": "Ducati",
 			"numero": 63,
 			"apodo": "Pecco",
-			"img": "https://i0.wp.com/automundo.com.ar/wp-content/uploads/2022/09/Francesco-Bagnaia-2.jpg"
+			"img": "https://i0.wp.com/automundo.com.ar/wp-content/uploads/2022/09/Francesco-Bagnaia-2.jpg",
+			"description": "Francesco Bagnaia (Turín, 14 de enero de 1997), más conocido como Pecco Bagnaia, es un piloto de motociclismo italiano que compite en MotoGP con el equipo Ducati Lenovo. Es dos veces campeón del Campeonato Mundial de Motociclismo, de Moto2 en 2018 y de MotoGP en 2022, donde también resultó subcampeón del mundo en 2021."
 		},
 		{
 			"id": 3,
@@ -25,7 +27,8 @@
 			"equipo": "Aprilia",
 			"numero": 41,
 			"apodo": "El Aleix",
-			"img": "https://s3.eu-west-1.amazonaws.com/cdn.motorbikemag.es/wp-content/uploads/2022/05/aleix-espargaro-sabado-le-mans-motogp-3-1.jpg"
+			"img": "https://s3.eu-west-1.amazonaws.com/cdn.motorbikemag.es/wp-content/uploads/2022/05/aleix-espargaro-sabado-le-mans-motogp-3-1.jpg",
+			"description": "Aleix Espargaró Villà (Granollers, Barcelona, 30 de julio de 1989) es un piloto de motociclismo español. Compite en el campeonato del mundo de motociclismo de MotoGP en el Aprilia Racing Factory Team. Se proclamó campeón de España de 125 cc en 2004 y el campeonato mundial en categoría CRT en 2012. En el Gran Premio de Aragón de 2014 consiguió su primer podio en MotoGP al lograr la segunda posición y obtuvo su primera victoria en el Gran Premio de Argentina de 2022."
 		},
 		{
 			"id": 4,
@@ -34,7 +37,8 @@
 			"equipo": "Suzuki",
 			"numero": 42,
 			"apodo": "El Rins",
-			"img": "hhttps://gponesports.com/wp-content/uploads/2022/10/MotoGP-Alex-Rins-pide-la-GSX-RR-Suzuki-dicta-las-condiciones.jpg"
+			"img": "https://www.moto1pro.com/sites/default/files/alex-rins-victoria-motogp-austin-2019.jpg",
+			"description": "Alejandro Rins Navarro (Barcelona, 8 de diciembre de 1995) es un piloto español de motociclismo. Compite en el Campeonato del Mundo de MotoGP desde 2017. Después de cinco temporadas en Team Suzuki Ecstar, en 2023 corre para el LCR Honda. Ha sido dos veces subcampeón del mundo, de Moto3 en 2013 y Moto2 en 2015. Además, obtuvo el tercer puesto de MotoGP en 2020."
 		},
 		{
 			"id": 5,
@@ -43,7 +47,8 @@
 			"equipo": "Honda",
 			"numero": 93,
 			"apodo": "El Marquez",
-			"img": "https://motorbikewriter.com/wp-content/uploads/2022/08/The-Guuardina-e1661461416187.jpg"
+			"img": "https://motorbikewriter.com/wp-content/uploads/2022/08/The-Guuardina-e1661461416187.jpg",
+			"description": "Marc Márquez Alentà (Cervera, Lérida, 17 de febrero de 1993) es un piloto de motociclismo español que compite en MotoGP.2​ Ha ganado ocho títulos del Campeonato del Mundo de Motociclismo en tres categorías diferentes: 125cc (2010), Moto2 (2012) y seis veces en MotoGP (2013, 2014, 2016, 2017, 2018 y 2019).3​ Desde 2013 es piloto del equipo Repsol Honda,4​ donde ha acumulado 50 victorias y 78 podios en 105 carreras disputadas. En febrero de 2020 extendió su contrato con Honda hasta 2024.5​"
 		},
 		{
 			"id": 6,
@@ -52,7 +57,8 @@
 			"equipo": "Ducati",
 			"numero": 43,
 			"apodo": "El Miller",
-			"img": "https://cdn-1.motorsport.com/images/amp/YMdoEwg2/s6/motogp-ducati-team-launch-2021-4.jpg"
+			"img": "https://cdn-1.motorsport.com/images/amp/YMdoEwg2/s6/motogp-ducati-team-launch-2021-4.jpg",
+			"description": "Jack Miller ganó su primer título nacional de dirt track con apenas 10 años. El australiano se pasó a la velocidad en 2008 e hizo su debut en carrera en 2009, en Tasmania, con 14 años, tras lo cual compitió en el Campeonato de Australia de 125cc ese mismo año. Ganó el campeonato MRRDA 125cc y posteriormente se trasladó a Europa, donde compitió esporádicamente en el Campeonato del Mundo de 125cc y en el CEV Buckler y a tiempo completo en el Campeonato alemán IDM de 125cc, que ganó fácilmente."
 		}
 	]
 }

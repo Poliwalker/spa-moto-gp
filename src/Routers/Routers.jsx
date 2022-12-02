@@ -4,6 +4,7 @@ import Layout from '../Components/Layout/Layout';
 import Home from '../Pages/Home/Home';
 import NextRaces from '../Pages/NextRaces/NextRaces';
 import PilotsPage from '../Pages/Pilotos/PilotsPage';
+import Pilot from '../Pages/Pilot/Pilot';
 
 const Routers = () => {
 	return (
@@ -13,6 +14,7 @@ const Routers = () => {
 					<Route path="/" element={<Home />} />
 					<Route path="/pilots" element={<PilotsPage />} />
 					<Route path="/next-races" element={<NextRaces />} />
+					<Route path="pilot/:id" element={<Pilot />} />
 					<Route path="*" element="Error" />
 				</Routes>
 			</Layout>
